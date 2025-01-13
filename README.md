@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Gerzium
 - 👀 I’m interested in ... Azure Cloud
-- 🌱 I’m currently learning ... Python & HTML
-- 💞️ I’m looking to collaborate on ... no
-- 📫 How to reach me ... dont
+- 🌱 I’m currently learning ... Terraform
+- 💞️ I’m looking to collaborate on ... N/A
 
 <!---
 Gerzium/Gerzium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
